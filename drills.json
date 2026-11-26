@@ -1,0 +1,862 @@
+[
+  {
+    "id": "d01",
+    "name": "Snowplow stops",
+    "skill": "Skating",
+    "position": "All players",
+    "goal": "Stop under control",
+    "setup": "Set two cones 8 metres apart",
+    "steps": [
+      "Glide toward the second cone",
+      "Bend knees and turn toes inward",
+      "Stop before the cone"
+    ],
+    "coaching": "Keep chest up and pressure even",
+    "variation": "Increase approach speed",
+    "ages": [
+      "U7",
+      "U9",
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 5,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d02",
+    "name": "Edge circles",
+    "skill": "Skating",
+    "position": "All players",
+    "goal": "Develop inside and outside edges",
+    "setup": "Place cones in a wide circle",
+    "steps": [
+      "Skate around the circle",
+      "Repeat on one foot where appropriate",
+      "Reverse direction"
+    ],
+    "coaching": "Keep hips over the skating foot",
+    "variation": "Reduce circle size",
+    "ages": [
+      "U7",
+      "U9",
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 5,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d03",
+    "name": "Forward stride lanes",
+    "skill": "Skating",
+    "position": "All players",
+    "goal": "Develop efficient stride",
+    "setup": "Mark parallel lanes",
+    "steps": [
+      "Push sideways and recover under hips",
+      "Glide between pushes",
+      "Return in the next lane"
+    ],
+    "coaching": "Full extension without reaching forward",
+    "variation": "Add a puck",
+    "ages": [
+      "U7",
+      "U9",
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 5,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d04",
+    "name": "Backward C cuts",
+    "skill": "Skating",
+    "position": "Defence",
+    "goal": "Build backward acceleration",
+    "setup": "Mark a straight lane",
+    "steps": [
+      "Start in a low stance",
+      "Alternate C cuts",
+      "Glide backward to the end"
+    ],
+    "coaching": "Keep shoulders level",
+    "variation": "Add a partner mirroring forward",
+    "ages": [
+      "U7",
+      "U9",
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 5,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d05",
+    "name": "Figure eight turns",
+    "skill": "Skating",
+    "position": "All players",
+    "goal": "Develop tight turns",
+    "setup": "Place two cones 5 metres apart",
+    "steps": [
+      "Skate a figure eight around cones",
+      "Repeat in both directions",
+      "Maintain speed through turns"
+    ],
+    "coaching": "Look through the turn",
+    "variation": "Carry a puck",
+    "ages": [
+      "U7",
+      "U9",
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 5,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d06",
+    "name": "Stationary puck control",
+    "skill": "Puck handling",
+    "position": "All players",
+    "goal": "Develop soft hands",
+    "setup": "Give each player a puck and space",
+    "steps": [
+      "Move puck side to side",
+      "Move it forward and back",
+      "Alternate narrow and wide movements"
+    ],
+    "coaching": "Keep head up periodically",
+    "variation": "Call out numbers to identify",
+    "ages": [
+      "U7",
+      "U9",
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 5,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d07",
+    "name": "Cone slalom",
+    "skill": "Puck handling",
+    "position": "All players",
+    "goal": "Control puck while turning",
+    "setup": "Set five spaced cones",
+    "steps": [
+      "Carry puck around alternating sides",
+      "Return outside the lane",
+      "Repeat opposite direction"
+    ],
+    "coaching": "Move puck away from feet",
+    "variation": "Vary cone spacing",
+    "ages": [
+      "U7",
+      "U9",
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 5,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d08",
+    "name": "Protect the puck",
+    "skill": "Puck handling",
+    "position": "Forward",
+    "goal": "Use body position to shield puck",
+    "setup": "Pair players in a small square",
+    "steps": [
+      "Carrier shields puck",
+      "Partner applies light stick pressure",
+      "Switch roles after 20 seconds"
+    ],
+    "coaching": "Keep body between puck and opponent",
+    "variation": "Increase legal pressure",
+    "ages": [
+      "U7",
+      "U9",
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 5,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d09",
+    "name": "Gate dribble",
+    "skill": "Puck handling",
+    "position": "All players",
+    "goal": "Scan while carrying puck",
+    "setup": "Scatter pairs of cones as gates",
+    "steps": [
+      "Skate through different gates",
+      "Avoid other players",
+      "Count completed gates"
+    ],
+    "coaching": "Look ahead before changing direction",
+    "variation": "Use coach-called gate colours",
+    "ages": [
+      "U7",
+      "U9",
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 5,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d10",
+    "name": "Partner passing",
+    "skill": "Passing",
+    "position": "All players",
+    "goal": "Improve accurate flat passes",
+    "setup": "Pair players 5 metres apart",
+    "steps": [
+      "Pass to partner forehand",
+      "Receive softly",
+      "Repeat on backhand"
+    ],
+    "coaching": "Present a target and follow through",
+    "variation": "Increase distance",
+    "ages": [
+      "U7",
+      "U9",
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 5,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d11",
+    "name": "Triangle passing",
+    "skill": "Passing",
+    "position": "All players",
+    "goal": "Improve support angles",
+    "setup": "Groups of three form triangles",
+    "steps": [
+      "Pass clockwise",
+      "Receive and turn toward next player",
+      "Reverse direction"
+    ],
+    "coaching": "Show stick and communicate",
+    "variation": "Add a second puck only when safe",
+    "ages": [
+      "U7",
+      "U9",
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 5,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d12",
+    "name": "Give and go",
+    "skill": "Passing",
+    "position": "Forward",
+    "goal": "Move after passing",
+    "setup": "Set a stationary passer beside a lane",
+    "steps": [
+      "Pass to partner",
+      "Skate into open space",
+      "Receive return pass in stride"
+    ],
+    "coaching": "Accelerate after release",
+    "variation": "Add passive defender",
+    "ages": [
+      "U7",
+      "U9",
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 5,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d13",
+    "name": "Moving pair passes",
+    "skill": "Passing",
+    "position": "All players",
+    "goal": "Pass in stride",
+    "setup": "Pairs start in parallel lanes",
+    "steps": [
+      "Skate together while exchanging passes",
+      "Finish at far cone",
+      "Return outside lane"
+    ],
+    "coaching": "Lead the receiver",
+    "variation": "Increase lateral separation",
+    "ages": [
+      "U7",
+      "U9",
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 5,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d14",
+    "name": "Wrist shot station",
+    "skill": "Shooting",
+    "position": "All players",
+    "goal": "Develop controlled release",
+    "setup": "Set shooting line and empty net",
+    "steps": [
+      "Transfer weight toward target",
+      "Release puck toward chosen area",
+      "Retrieve only on signal"
+    ],
+    "coaching": "Keep blade directed at target",
+    "variation": "Shoot after a short carry",
+    "ages": [
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 8,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d15",
+    "name": "Catch and release",
+    "skill": "Shooting",
+    "position": "Forward",
+    "goal": "Reduce time to shoot",
+    "setup": "Place passer beside shooting lane",
+    "steps": [
+      "Receive pass in shooting position",
+      "Release promptly",
+      "Rotate roles"
+    ],
+    "coaching": "Prepare blade before reception",
+    "variation": "Vary pass angle",
+    "ages": [
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 8,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d16",
+    "name": "Rebound finish",
+    "skill": "Shooting",
+    "position": "Forward",
+    "goal": "React to loose pucks",
+    "setup": "Coach feeds loose pucks near net",
+    "steps": [
+      "Approach from safe lane",
+      "Collect loose puck",
+      "Finish then clear crease"
+    ],
+    "coaching": "Keep stick on ice",
+    "variation": "Add goalie when appropriate",
+    "ages": [
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 8,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d17",
+    "name": "Point shot lane",
+    "skill": "Shooting",
+    "position": "Defence",
+    "goal": "Shoot accurately through a lane",
+    "setup": "Set cones marking a clear lane",
+    "steps": [
+      "Receive at point",
+      "Move laterally",
+      "Shoot through open lane"
+    ],
+    "coaching": "Prioritize accuracy and safe low shots",
+    "variation": "Add passive screen with safe spacing",
+    "ages": [
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 8,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d18",
+    "name": "Gap mirror",
+    "skill": "Defensive skills",
+    "position": "Defence",
+    "goal": "Maintain useful gap",
+    "setup": "Pair attacker and defender in lane",
+    "steps": [
+      "Attacker skates forward",
+      "Defender mirrors backward",
+      "Stop at marked line"
+    ],
+    "coaching": "Stay centered and match speed",
+    "variation": "Add puck and controlled pressure",
+    "ages": [
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 8,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d19",
+    "name": "Angling to boards",
+    "skill": "Defensive skills",
+    "position": "All players",
+    "goal": "Guide attacker away from middle",
+    "setup": "Mark wide lane near boards",
+    "steps": [
+      "Attacker carries at moderate speed",
+      "Defender approaches on inside angle",
+      "Finish without contact"
+    ],
+    "coaching": "Use stick and feet, not body contact",
+    "variation": "Increase speed gradually",
+    "ages": [
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 8,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d20",
+    "name": "Two on one read",
+    "skill": "Tactics",
+    "position": "All players",
+    "goal": "Recognize passing and shooting options",
+    "setup": "Two attackers face one defender and goalie",
+    "steps": [
+      "Attack from marked start",
+      "Defender protects middle",
+      "Attackers choose pass or shot"
+    ],
+    "coaching": "Maintain spacing and read defender",
+    "variation": "Change starting angles",
+    "ages": [
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 8,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d21",
+    "name": "Breakout wall support",
+    "skill": "Tactics",
+    "position": "All players",
+    "goal": "Build simple breakout support",
+    "setup": "Coach places puck behind net",
+    "steps": [
+      "Defender retrieves and scans",
+      "Winger offers wall outlet",
+      "Center supports underneath"
+    ],
+    "coaching": "Communicate before receiving",
+    "variation": "Add passive forechecker",
+    "ages": [
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 8,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d22",
+    "name": "Three player regroup",
+    "skill": "Tactics",
+    "position": "All players",
+    "goal": "Practice transition support",
+    "setup": "Set three players in neutral zone",
+    "steps": [
+      "Pass back to defender",
+      "Forwards turn into support lanes",
+      "Move puck forward together"
+    ],
+    "coaching": "Keep width and timing",
+    "variation": "Add passive pressure",
+    "ages": [
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 8,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d23",
+    "name": "Cross ice possession",
+    "skill": "Small-area games",
+    "position": "All players",
+    "goal": "Find open space under pressure",
+    "setup": "Mark small area with two mini nets",
+    "steps": [
+      "Play three versus three",
+      "Change possession on goals",
+      "Rotate short shifts"
+    ],
+    "coaching": "Encourage support away from puck",
+    "variation": "Require one pass before scoring",
+    "ages": [
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 8,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d24",
+    "name": "Gate scoring game",
+    "skill": "Small-area games",
+    "position": "All players",
+    "goal": "Encourage scanning and teamwork",
+    "setup": "Mark several cone gates",
+    "steps": [
+      "Teams score by passing through a gate to teammate",
+      "Switch possession on interception",
+      "Rotate players"
+    ],
+    "coaching": "Move to new space after passing",
+    "variation": "Limit repeated use of same gate",
+    "ages": [
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 8,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d25",
+    "name": "Crease shuffle",
+    "skill": "Goaltending",
+    "position": "Goaltender",
+    "goal": "Maintain stance during lateral movement",
+    "setup": "Mark three crease positions",
+    "steps": [
+      "Shuffle between marks",
+      "Set at each mark",
+      "Repeat both directions"
+    ],
+    "coaching": "Keep hands forward and head level",
+    "variation": "Add visual reaction cue",
+    "ages": [
+      "U7",
+      "U9",
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 5,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d26",
+    "name": "T push and set",
+    "skill": "Goaltending",
+    "position": "Goaltender",
+    "goal": "Move efficiently to new angle",
+    "setup": "Coach marks two shooting angles",
+    "steps": [
+      "Turn head toward target",
+      "T push to new angle",
+      "Set before simulated shot"
+    ],
+    "coaching": "Arrive balanced and square",
+    "variation": "Add controlled shot after set",
+    "ages": [
+      "U7",
+      "U9",
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 5,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d27",
+    "name": "Tracking soft shots",
+    "skill": "Goaltending",
+    "position": "Goaltender",
+    "goal": "Track puck into save",
+    "setup": "Coach shoots gently from clear lane",
+    "steps": [
+      "Goalie sets on release",
+      "Tracks puck into body or glove",
+      "Resets between shots"
+    ],
+    "coaching": "Follow puck with eyes and head",
+    "variation": "Vary release angle",
+    "ages": [
+      "U7",
+      "U9",
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 5,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  },
+  {
+    "id": "d28",
+    "name": "Rebound steering",
+    "skill": "Goaltending",
+    "position": "Goaltender",
+    "goal": "Direct rebounds away from danger",
+    "setup": "Coach shoots controlled low pucks",
+    "steps": [
+      "Set before shot",
+      "Direct rebound toward corner",
+      "Recover stance"
+    ],
+    "coaching": "Control stick angle and track rebound",
+    "variation": "Add second controlled shot after reset",
+    "ages": [
+      "U11",
+      "U13",
+      "U15",
+      "U18"
+    ],
+    "levels": [
+      "Intermediate",
+      "Advanced",
+      "Elite"
+    ],
+    "ice": "Station / half ice",
+    "minutes": 8,
+    "source": "Original starter description of a common coaching exercise; not externally sourced."
+  }
+]
